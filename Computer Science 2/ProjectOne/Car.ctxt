@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Class\ Car\ describes\ one\ car\ object\ and\ holds\ variables\n\ and\ methods\ for\ this\ program.\n\n\ @author\ Benjamin\ Carlson\n\ @version\ 1/29/20\n
+comment1.params=vin\ make\ model\ cost\ year
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getModel()
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=
+comment4.target=boolean\ isExpensive()
+comment5.params=
+comment5.target=boolean\ isAntique()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

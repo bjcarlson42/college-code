@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HouseComplex
+comment1.params=list\ n
+comment1.target=java.lang.String\ toString(House[],\ int)
+comment2.params=list\ n
+comment2.target=void\ printNewHouses(House[],\ int)
+comment3.params=list\ n
+comment3.target=int\ countExpensive(House[],\ int)
+comment4.params=list\ n
+comment4.target=House\ cheapestHouse(House[],\ int)
+comment5.params=list\ n
+comment5.target=java.util.ArrayList\ moderateSize(House[],\ int)
+numComments=6

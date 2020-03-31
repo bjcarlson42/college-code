@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\n\ Class\ House\ describes\ one\ house\ object\ and\ holds\ variables\n\ and\ methods\ for\ this\ program.\ \n\n\ @author\ Benjamin\ Carlson\n\ @version\ Feb\ 25,\ 2020\n
+comment1.params=houseNumber\ bedrooms\ sqFeet\ year\ cost
+comment1.target=House(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getCost()
+comment3.params=
+comment3.target=int\ getSqFeet()
+comment4.params=
+comment4.target=boolean\ isNew()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

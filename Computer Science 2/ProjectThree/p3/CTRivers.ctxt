@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CTRivers
+comment0.text=\n\ Class\ CTRivers\ describes\ a\ collection\ of\ CT\ rivers.\n\n\ @author\ Benjamin\ Carlson\n\ @version\ March\ 21,\ 2020\n
+comment1.params=list\ n
+comment1.target=void\ printListRec(River[],\ int)
+comment2.params=list\ n\ name
+comment2.target=int\ linearSearch(River[],\ int,\ java.lang.String)
+comment3.params=list\ n\ min\ max
+comment3.target=java.util.ArrayList\ searchRange(River[],\ int,\ int,\ int)
+comment4.params=list\ n
+comment4.target=void\ sortByNameRec(River[],\ int)
+comment5.params=list\ first\ last\ name
+comment5.target=int\ binarySearchRec(River[],\ int,\ int,\ java.lang.String)
+numComments=6
