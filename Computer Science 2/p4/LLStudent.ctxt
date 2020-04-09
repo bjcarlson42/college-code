@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=LLStudent
+comment0.text=\n\ Class\ LLStudent\ defines\ methods\ on\ Student\ Class.\n\n\ @author\ Benjamin\ Carlson\n\ @version\ April\ 8th,\ 2020\n
+comment1.params=
+comment1.target=LLStudent()
+comment2.params=s
+comment2.target=void\ addFront(Student)
+comment3.params=
+comment3.target=void\ printLinkedList()
+comment4.params=
+comment4.target=LLStudent.Node\ getList()
+comment5.params=
+comment5.target=Student\ worstStudent()
+comment6.params=
+comment6.target=boolean\ isSortedByGpa()
+comment7.params=first
+comment7.target=boolean\ isSortedByAgeRec(LLStudent.Node)
+comment8.params=first
+comment8.target=Student\ bestStudentRec(LLStudent.Node)
+numComments=9
