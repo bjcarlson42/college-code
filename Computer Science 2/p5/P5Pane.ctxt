@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=P5Pane
+comment0.text=\n\ Program\ converts\ inches\ to\ yards,\ feet,\ and\ inches\ using\ javafx.\n\n\ @author\ Benjamin\ Carlson\n\ @version\ May\ 4th,\ 2020\n
+comment1.params=
+comment1.target=P5Pane()
+comment2.params=event
+comment2.target=void\ calculate(javafx.event.ActionEvent)
+numComments=3
